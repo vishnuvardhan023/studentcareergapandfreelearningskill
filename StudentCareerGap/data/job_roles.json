@@ -1,0 +1,144 @@
+{
+  "roles": [
+    {
+      "title": "Python Developer",
+      "description": "Build backend services, scripts, and business logic using Python.",
+      "sample_note": "Illustrative sample profile for learning and evaluation; not a universal employer requirement.",
+      "beginner_priorities": ["Python fundamentals", "APIs and web frameworks", "Testing and debugging"],
+      "responsibilities": ["Write Python scripts", "Build APIs", "Collaborate with frontend teams"],
+      "required_skills": [
+        {"skill": "Python", "required_level": 3, "weight": 18, "category": "Programming"},
+        {"skill": "SQL", "required_level": 3, "weight": 12, "category": "Database"},
+        {"skill": "Git", "required_level": 2, "weight": 8, "category": "Development Tools"},
+        {"skill": "Problem Solving", "required_level": 3, "weight": 10, "category": "Soft Skills"},
+        {"skill": "Communication", "required_level": 2, "weight": 6, "category": "Soft Skills"}
+      ]
+    },
+    {
+      "title": "Java Developer",
+      "description": "Develop enterprise applications and backend logic in Java.",
+      "sample_note": "Illustrative sample profile for learning and evaluation; not a universal employer requirement.",
+      "beginner_priorities": ["Java basics", "OOP", "Databases and REST APIs"],
+      "responsibilities": ["Implement Java classes", "Handle API endpoints", "Debug production issues"],
+      "required_skills": [
+        {"skill": "Java", "required_level": 3, "weight": 18, "category": "Programming"},
+        {"skill": "SQL", "required_level": 3, "weight": 10, "category": "Database"},
+        {"skill": "Git", "required_level": 2, "weight": 8, "category": "Development Tools"},
+        {"skill": "Problem Solving", "required_level": 3, "weight": 10, "category": "Soft Skills"},
+        {"skill": "Critical Thinking", "required_level": 2, "weight": 7, "category": "Soft Skills"}
+      ]
+    },
+    {
+      "title": "Frontend Developer",
+      "description": "Build responsive, accessible user interfaces with modern web tools.",
+      "sample_note": "Illustrative sample profile for learning and evaluation; not a universal employer requirement.",
+      "beginner_priorities": ["HTML, CSS, JavaScript", "Responsive design", "UI debugging"],
+      "responsibilities": ["Implement pages", "Use frameworks", "Ensure usability"],
+      "required_skills": [
+        {"skill": "HTML", "required_level": 3, "weight": 12, "category": "Web Development"},
+        {"skill": "CSS", "required_level": 3, "weight": 12, "category": "Web Development"},
+        {"skill": "JavaScript", "required_level": 3, "weight": 18, "category": "Programming"},
+        {"skill": "React", "required_level": 2, "weight": 12, "category": "Web Development"},
+        {"skill": "Communication", "required_level": 2, "weight": 7, "category": "Soft Skills"}
+      ]
+    },
+    {
+      "title": "Backend Developer",
+      "description": "Create server-side systems, APIs, and services.",
+      "sample_note": "Illustrative sample profile for learning and evaluation; not a universal employer requirement.",
+      "beginner_priorities": ["Node.js and APIs", "Databases", "Security basics"],
+      "responsibilities": ["Build backend services", "Connect databases", "Optimize performance"],
+      "required_skills": [
+        {"skill": "Node.js", "required_level": 3, "weight": 16, "category": "Web Development"},
+        {"skill": "SQL", "required_level": 3, "weight": 12, "category": "Database"},
+        {"skill": "Git", "required_level": 2, "weight": 8, "category": "Development Tools"},
+        {"skill": "Problem Solving", "required_level": 3, "weight": 10, "category": "Soft Skills"},
+        {"skill": "Time Management", "required_level": 2, "weight": 6, "category": "Soft Skills"}
+      ]
+    },
+    {
+      "title": "Full Stack Developer",
+      "description": "Work across frontend and backend systems to ship complete features.",
+      "sample_note": "Illustrative sample profile for learning and evaluation; not a universal employer requirement.",
+      "beginner_priorities": ["Frontend foundations", "Backend APIs", "Database design"],
+      "responsibilities": ["Ship end-to-end features", "Integrate APIs", "Debug deployment issues"],
+      "required_skills": [
+        {"skill": "JavaScript", "required_level": 3, "weight": 15, "category": "Programming"},
+        {"skill": "React", "required_level": 3, "weight": 14, "category": "Web Development"},
+        {"skill": "Node.js", "required_level": 3, "weight": 14, "category": "Web Development"},
+        {"skill": "SQL", "required_level": 3, "weight": 12, "category": "Database"},
+        {"skill": "Git", "required_level": 3, "weight": 8, "category": "Development Tools"}
+      ]
+    },
+    {
+      "title": "Data Analyst",
+      "description": "Analyze business and technical data to create actionable reporting.",
+      "sample_note": "Illustrative sample profile for learning and evaluation; not a universal employer requirement.",
+      "beginner_priorities": ["Excel and SQL", "Statistics", "Visualization dashboards"],
+      "responsibilities": ["Clean data", "Create reports", "Communicate findings"],
+      "required_skills": [
+        {"skill": "Excel", "required_level": 3, "weight": 14, "category": "Data and AI"},
+        {"skill": "SQL", "required_level": 3, "weight": 16, "category": "Database"},
+        {"skill": "Statistics", "required_level": 3, "weight": 14, "category": "Data and AI"},
+        {"skill": "Power BI", "required_level": 2, "weight": 12, "category": "Data and AI"},
+        {"skill": "Communication", "required_level": 3, "weight": 8, "category": "Soft Skills"}
+      ]
+    },
+    {
+      "title": "Machine Learning Intern",
+      "description": "Apply statistical and ML thinking to data-driven experiments.",
+      "sample_note": "Illustrative sample profile for learning and evaluation; not a universal employer requirement.",
+      "beginner_priorities": ["Python", "Statistics", "ML fundamentals"],
+      "responsibilities": ["Prepare datasets", "Evaluate models", "Document experiments"],
+      "required_skills": [
+        {"skill": "Python", "required_level": 3, "weight": 16, "category": "Programming"},
+        {"skill": "Statistics", "required_level": 3, "weight": 14, "category": "Data and AI"},
+        {"skill": "Machine Learning", "required_level": 2, "weight": 14, "category": "Data and AI"},
+        {"skill": "Data Analysis", "required_level": 2, "weight": 10, "category": "Data and AI"},
+        {"skill": "Critical Thinking", "required_level": 3, "weight": 8, "category": "Soft Skills"}
+      ]
+    },
+    {
+      "title": "Software Developer",
+      "description": "Engineering general-purpose software across product requirements.",
+      "sample_note": "Illustrative sample profile for learning and evaluation; not a universal employer requirement.",
+      "beginner_priorities": ["Coding practice", "Version control", "Problem solving"],
+      "responsibilities": ["Write production code", "Review PRs", "Debug issues"],
+      "required_skills": [
+        {"skill": "JavaScript", "required_level": 3, "weight": 12, "category": "Programming"},
+        {"skill": "Python", "required_level": 3, "weight": 12, "category": "Programming"},
+        {"skill": "Git", "required_level": 2, "weight": 8, "category": "Development Tools"},
+        {"skill": "Problem Solving", "required_level": 3, "weight": 12, "category": "Soft Skills"},
+        {"skill": "Teamwork", "required_level": 2, "weight": 8, "category": "Soft Skills"}
+      ]
+    },
+    {
+      "title": "Cybersecurity Analyst",
+      "description": "Support information security operations and threat awareness.",
+      "sample_note": "Illustrative sample profile for learning and evaluation; not a universal employer requirement.",
+      "beginner_priorities": ["Linux", "Networking basics", "Security fundamentals"],
+      "responsibilities": ["Review alerts", "Follow procedures", "Monitor systems"],
+      "required_skills": [
+        {"skill": "Linux", "required_level": 3, "weight": 15, "category": "Development Tools"},
+        {"skill": "Python", "required_level": 2, "weight": 10, "category": "Programming"},
+        {"skill": "Problem Solving", "required_level": 3, "weight": 12, "category": "Soft Skills"},
+        {"skill": "Critical Thinking", "required_level": 3, "weight": 10, "category": "Soft Skills"},
+        {"skill": "Git", "required_level": 2, "weight": 7, "category": "Development Tools"}
+      ]
+    },
+    {
+      "title": "Cloud Support Associate",
+      "description": "Support cloud operations, troubleshooting, and onboarding tasks.",
+      "sample_note": "Illustrative sample profile for learning and evaluation; not a universal employer requirement.",
+      "beginner_priorities": ["Linux fundamentals", "Cloud concepts", "Troubleshooting"],
+      "responsibilities": ["Handle support cases", "Troubleshoot cloud issues", "Document workflows"],
+      "required_skills": [
+        {"skill": "Linux", "required_level": 3, "weight": 14, "category": "Development Tools"},
+        {"skill": "Git", "required_level": 2, "weight": 8, "category": "Development Tools"},
+        {"skill": "Communication", "required_level": 3, "weight": 10, "category": "Soft Skills"},
+        {"skill": "Problem Solving", "required_level": 3, "weight": 12, "category": "Soft Skills"},
+        {"skill": "Time Management", "required_level": 2, "weight": 6, "category": "Soft Skills"}
+      ]
+    }
+  ]
+}
